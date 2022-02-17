@@ -10,7 +10,7 @@ fonts {
   filename: "RubikBeastly-Regular.ttf"
   post_script_name: "RubikBeastly-Regular"
   full_name: "Rubik Beastly Regular"
-  copyright: "Copyright 2015 The Rubik Filtered Project Authors (https://github.com/googlefonts/rubik)"
+  copyright: "Copyright 2020 The Rubik Filtered Project Authors (https://https://github.com/NaN-xyz/Rubik-Filtered)"
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"
@@ -18,6 +18,10 @@ subsets: "hebrew"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
+source {
+  repository_url: "https://github.com/NaN-xyz/Rubik-Filtered"
+  commit: "4d7ed915105cea35a8aba9399480ad020bb74d08"
+}
 languages: "aa_Latn"  # Afar
 languages: "abq_Cyrl"  # Abaza
 languages: "ace_Latn"  # Achinese
